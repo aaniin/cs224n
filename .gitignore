@@ -1,0 +1,19 @@
+# Environment
+# venv
+# Editors 
+.idea
+.vs/
+# python byte compiled cache
+__pycache__/
+*.py[cod]
+
+# saved models and params
+saved_params_*
+saved_state_*
+model.weights
+model.bin*
+
+# data
+#vocab.json
+#en_es_data
+#data
